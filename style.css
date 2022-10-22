@@ -1,0 +1,38 @@
+body
+{
+  color: rgb(211, 0, 194);
+  background: #60e51d;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+.object_name
+{
+  font-size: 40px;
+}
+.gesture_icon
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  color: #371de3;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: rgb(219, 18, 18);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
